@@ -4,7 +4,7 @@
 
 
 ## Description
-This program is to help the student learn and build a basic CRUD application. 
+This program was built to mimich a restaurant rating system. 
 
 ## System Requirements
 Any computer or laptop with windows 8 or higher.
